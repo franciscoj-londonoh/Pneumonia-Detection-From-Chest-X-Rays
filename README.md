@@ -20,4 +20,4 @@ This project contains the following stages:
 * Building and Training Your Model
 * Clinical Workflow Integration (Inference)
 
-Detailed description of the project proposal is provided in the [README](https://github.com/udacity/AIHCND_C2_Starter/blob/master/README.md) file of the Nanoprogram at Udacity,s Github.
+Detailed description of the project proposal is provided in the [README](https://github.com/udacity/AIHCND_C2_Starter/blob/master/README.md) file of the Nanoprogram at Udacity's Github.
