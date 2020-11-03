@@ -16,7 +16,7 @@ The development of this project involved:
 
 ## Project Steps
 This project contains the following stages:
-* Exploratory Data Analysis (EDA) 
+* Exploratory Data Analysis [(EDA)](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part1_EDA.ipynb)
 
 ![EDA](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Distribution_EDA.png)
 
