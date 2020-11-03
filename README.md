@@ -28,6 +28,7 @@ This project contains the following stages:
 
 * Clinical Workflow Integration [(Inference)](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part3_Inference.ipynb)
 
-Describe the metrics and final selection.
+Describe the metrics and final selection. 
+[Human F1 in literature](https://arxiv.org/pdf/1711.05225.pdf)
 
 Detailed description of the project proposal is provided in the [README](https://github.com/udacity/AIHCND_C2_Starter/blob/master/README.md) file of the Nanoprogram at Udacity's Github.
