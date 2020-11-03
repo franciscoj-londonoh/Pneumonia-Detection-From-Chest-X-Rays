@@ -20,7 +20,7 @@ This project contains the following stages:
 
 ![EDA](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Distribution_EDA.png)
 
-* Building and Training a [Model] (https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part2_BuildTrainModel.ipynb)
+* Building and Training a [Model](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part2_BuildTrainModel.ipynb)
 
 ![Dataset](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Dataset_Model.png)
 
