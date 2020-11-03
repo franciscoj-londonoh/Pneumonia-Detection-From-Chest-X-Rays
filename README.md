@@ -1,4 +1,4 @@
-# Pneumonia-Detection-From-Chest-X-Rays
+# Pneumonia detection from chest X-rays
 
 ## Project Overview
 This project was part of the path to finish Udacity´s nanodegree: "AI for Healthcare", in which skills acquired in the 2D medical imaging course were applied to analyze data from the NIH Chest X-ray Dataset and train a CNN to classify a given chest x-ray for the presence or absence of pneumonia. The project produced a model that can predict the presence of pneumonia with human radiologist-level accuracy. 
