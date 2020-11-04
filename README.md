@@ -55,4 +55,4 @@ As part of the project, the following steps that are derived from the FDA's offi
   - Ground truth description and its benefits and limitations
   - FDA validation plan 
   
-Detailed description of the project proposal is provided in the [README](https://github.com/udacity/AIHCND_C2_Starter/blob/master/README.md) file of the Nanoprogram at Udacity's Github.-
+Detailed description of the project proposal is provided in the [README](https://github.com/udacity/AIHCND_C2_Starter/blob/master/README.md) file of the Nanoprogram at Udacity's Github.
