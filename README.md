@@ -44,7 +44,7 @@ This part is divided is specific steps:
 Since DICOM is the standard format in medicine imaging, this part of the project creates a DICOM wrapper that takes in a standard DICOM file and outputs data in the format accepted by the model.
 
 
-* Part 4: FDA Submission
+* Part 4: [FDA Submission](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part4_FDAValidationPlan.pdf)
 As part of the project, the following steps that are derived from the FDA's official guidance on both the algorithm description and the algorithm performance assessment. 
 
   - General information: intended use statement for the model, target population, limitations, among others
