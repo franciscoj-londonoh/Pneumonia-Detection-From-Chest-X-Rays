@@ -46,6 +46,8 @@ Since DICOM is the standard format in medicine imaging, this part of the project
 
 * Part 4: [FDA Submission](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part4_FDAValidationPlan.pdf)
 
+![Model_Arquitecture](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/CNN_Arquitecture.png)
+
 As part of the project, a validation plan, which is derived from the FDA's official guidance, was proposed containing: 
 
   - General information: intended use statement for the model, target population, limitations, among others
