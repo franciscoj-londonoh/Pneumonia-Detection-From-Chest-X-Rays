@@ -38,6 +38,8 @@ This part is divided is specific steps:
   ![Dataset](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Dataset_Model.png)
 
   - Training the model
+  ![Model_Training](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Model_Training.png)
+  
   - Monitoring performance assessment over subsequence training epochs. Pneumonia diagnosis is a challenging task even for expert radiologist, thus a F1 score than [0.35-0.4](https://arxiv.org/pdf/1711.05225.pdf) is a good reference point
 
 
