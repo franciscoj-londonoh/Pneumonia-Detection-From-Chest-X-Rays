@@ -24,12 +24,13 @@ This project contains the following parts:
 * Part 1: Exploratory Data Analysis [(EDA)](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part1_EDA.ipynb)
 
 ![EDA](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Distribution_EDA.png)
+![Dataset](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Dataset_Model.png)
 
 The first part of this project involves an exploratory data analysis (EDA) to understand and describe the content and nature of the data, including demographic data, such as gender, age, patient position, the x-ray views taken, the number of cases, comorbidities of pneumonia, histograms of intensity values, among others.
 
 * Part 2: Building and Training a [Model](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part2_BuildTrainModel.ipynb)
 
-![Dataset](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Dataset_Model.png)
+![Model_Arquitecture](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/CNN_Arquitecture.png)
 
 This part is divided is specific steps:
   - Selecting the train and validation Datasets based on EDA findings: distribution of pneumonia cases and comorbidities, demographic information, image view positions, and          number of images per patient in each set
@@ -44,9 +45,8 @@ This part is divided is specific steps:
 Since DICOM is the standard format in medicine imaging, this part of the project creates a DICOM wrapper that takes in a standard DICOM file and outputs data in the format accepted by the model.
 
 
-* Part 4: [FDA Submission](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part4_FDAValidationPlan.pdf)
 
-![Model_Arquitecture](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/CNN_Arquitecture.png)
+* Part 4: [FDA Submission](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part4_FDAValidationPlan.pdf)
 
 As part of the project, a validation plan, which is derived from the FDA's official guidance, was proposed containing: 
 
