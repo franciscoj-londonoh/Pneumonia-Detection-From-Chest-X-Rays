@@ -23,14 +23,12 @@ This project contains the following parts:
 
 * Part 1: Exploratory Data Analysis [(EDA)](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part1_EDA.ipynb)
 
+The first part of this project involves an exploratory data analysis (EDA) to understand and describe the content and nature of the data, including demographic data, such as gender, age, patient position, the x-ray views taken, the number of cases, comorbidities of pneumonia, histograms of intensity values, among others.
+
 ![EDA](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Distribution_EDA.png)
 ![Dataset](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Dataset_Model.png)
 
-The first part of this project involves an exploratory data analysis (EDA) to understand and describe the content and nature of the data, including demographic data, such as gender, age, patient position, the x-ray views taken, the number of cases, comorbidities of pneumonia, histograms of intensity values, among others.
-
 * Part 2: Building and Training a [Model](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part2_BuildTrainModel.ipynb)
-
-![Model_Arquitecture](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/CNN_Arquitecture.png)
 
 This part is divided is specific steps:
   - Selecting the train and validation Datasets based on EDA findings: distribution of pneumonia cases and comorbidities, demographic information, image view positions, and          number of images per patient in each set
@@ -38,6 +36,8 @@ This part is divided is specific steps:
   - Image pre-processing and augmentation for increasing the model performance
   - Training the model
   - Monitoring performance assessment over subsequence training epochs. Pneumonia diagnosis is a challenging task even for expert radiologist, thus a F1 score than [0.35-0.4](https://arxiv.org/pdf/1711.05225.pdf) is a good reference point
+
+![Model_Arquitecture](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/CNN_Arquitecture.png)
 
 
 * Part 3: Clinical Workflow Integration [(Inference)](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part3_Inference.ipynb)
@@ -57,5 +57,7 @@ As part of the project, a validation plan, which is derived from the FDA's offic
   - Databases: description about the selected training and validation datasets, such as size of the dataset, number of negative and positive cases, demographic data, radiologic      techniques used and views taken, and comorbidities
   - Ground truth description and its benefits and limitations
   - FDA validation plan 
+  
+  ![F1_Score](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/F1Score.png)
   
 Detailed description of the project proposal is provided in the [README](https://github.com/udacity/AIHCND_C2_Starter/blob/master/README.md) file of the Nanoprogram at Udacity's Github.
