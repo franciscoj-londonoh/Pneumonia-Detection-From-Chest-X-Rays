@@ -25,7 +25,7 @@ This project contains the following parts:
 
 The first part of this project involves an exploratory data analysis (EDA) to understand and describe the content and nature of the data, including demographic data, such as gender, age, patient position, the x-ray views taken, the number of cases, comorbidities of pneumonia, histograms of intensity values, among others.
 
-![EDA](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Distribution_EDA.png)
+![EDA](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Distribution_EDA2.png)
 
 * Part 2: Building and Training a [Model](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part2_BuildTrainModel.ipynb)
 
