@@ -48,6 +48,9 @@ This part is divided is specific steps:
   
   
   - Monitoring performance assessment over subsequence training epochs. Pneumonia diagnosis is a challenging task even for expert radiologist, thus a F1 score than [0.35-0.4](https://arxiv.org/pdf/1711.05225.pdf) is a good reference point
+  
+![F1_Score](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/F1Score.png)
+
 
 
 * Part 3: Clinical Workflow Integration [(Inference)](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part3_Inference.ipynb)
@@ -67,7 +70,5 @@ As part of the project, a validation plan, which is derived from the FDA's offic
   - Databases: description about the selected training and validation datasets, such as size of the dataset, number of negative and positive cases, demographic data, radiologic      techniques used and views taken, and comorbidities
   - Ground truth description and its benefits and limitations
   - FDA validation plan 
-  
-  ![F1_Score](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/F1Score.png)
-  
+    
 Detailed description of the project proposal is provided in the [README](https://github.com/udacity/AIHCND_C2_Starter/blob/master/README.md) file of the Nanoprogram at Udacity's Github.
