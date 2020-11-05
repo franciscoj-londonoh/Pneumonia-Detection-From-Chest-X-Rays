@@ -26,18 +26,19 @@ This project contains the following parts:
 The first part of this project involves an exploratory data analysis (EDA) to understand and describe the content and nature of the data, including demographic data, such as gender, age, patient position, the x-ray views taken, the number of cases, comorbidities of pneumonia, histograms of intensity values, among others.
 
 ![EDA](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Distribution_EDA.png)
-![Dataset](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Dataset_Model.png)
 
 * Part 2: Building and Training a [Model](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part2_BuildTrainModel.ipynb)
 
 This part is divided is specific steps:
   - Selecting the train and validation Datasets based on EDA findings: distribution of pneumonia cases and comorbidities, demographic information, image view positions, and          number of images per patient in each set
   - The Model Architecture was set by fine-tuning the existing CNN VGG16 architecture with weights trained on the ImageNet dataset to classify x-rays images for the presence of      pneumonia
+  ![Model_Arquitecture](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/CNN_Arquitecture.png)
+
   - Image pre-processing and augmentation for increasing the model performance
+  ![Dataset](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/Dataset_Model.png)
+
   - Training the model
   - Monitoring performance assessment over subsequence training epochs. Pneumonia diagnosis is a challenging task even for expert radiologist, thus a F1 score than [0.35-0.4](https://arxiv.org/pdf/1711.05225.pdf) is a good reference point
-
-![Model_Arquitecture](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/data/CNN_Arquitecture.png)
 
 
 * Part 3: Clinical Workflow Integration [(Inference)](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part3_Inference.ipynb)
