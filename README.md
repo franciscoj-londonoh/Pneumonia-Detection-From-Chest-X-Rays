@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project was part of the path to finish Udacity´s nanodegree: "AI for Healthcare", in which skills acquired in the "Applying AI to 2D Medical Imaging Data" course were applied to analyze data from the NIH Chest X-ray Dataset and to train a CNN for classifying a given chest x-ray for the presence or absence of pneumonia. The project produced a model that can predict the presence of pneumonia with human radiologist-level accuracy. 
-The model was trained using a GPU for fast training of deep learning architecture, and access to a [dataset](https://www.kaggle.com/nih-chest-xrays/data) of 112,000 chest x-rays with disease labels acquired from 30,000 patients. 
+The model was trained using a GPU for fast training of a deep learning architecture, and access to a [dataset](https://www.kaggle.com/nih-chest-xrays/data) of 112,000 chest x-rays with disease labels acquired from 30,000 patients. 
 
 ## Background
 Chest X-ray imaging is a frequent and cost-effective method to diagnose pneumonia, and an interesting technique to develop deep learning applications due to the high amount of available data to train deep learning models for image classification and the possibility to support better image reads in a challenging task even for expert radiologists, increasing accuracy and reducing clinical burnout.
