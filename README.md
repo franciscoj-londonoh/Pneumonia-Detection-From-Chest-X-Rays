@@ -29,7 +29,7 @@ The first part of this project involves an exploratory data analysis (EDA) to un
 
 * Part 2: Building and Training a [Model](https://github.com/franciscoj-londonoh/Pneumonia-Detection-From-Chest-X-Rays/blob/main/Part2_BuildTrainModel.ipynb)
 
-This part is divided is specific steps:
+This part is divided in specific steps:
   - Selecting the train and validation Datasets based on EDA findings: distribution of pneumonia cases and comorbidities, demographic information, image view positions, and          number of images per patient in each set
   
   - The Model Architecture was set by fine-tuning the existing CNN VGG16 architecture with weights trained on the ImageNet dataset to classify x-rays images for the presence of      pneumonia
